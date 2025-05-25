@@ -1,4 +1,4 @@
-const apiKey = 'c78d5a52eeb3e11a7f730e76d6abb87d'; // Replace with your OpenWeatherMap API key
+const apiKey = 'c78d5a52eeb3e11a7f730e76d6abb87d'; 
 const weatherDiv = document.getElementById('weather');
 
 function toggleTheme() {
